@@ -1,4 +1,6 @@
 # E-Commerce-inventory-management-system
 E-Commerce Inventory Management System using Trees in Data Structure
 
-<img src="https://github.com/RenuckaM/E-Commerce-inventory-management-system/commit/9a9c51fd4e29228d203d2e9cdcb8343e625ee130">
+# A Screenshot showing the graphical interface of the program with one item in the binary list
+![Output_E-commerce_Inventory_management_system](https://github.com/RenuckaM/E-Commerce-inventory-management-system/assets/147283564/6cdfca49-07cc-4e1b-9854-e578505c430f)
+
